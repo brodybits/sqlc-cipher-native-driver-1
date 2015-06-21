@@ -6,6 +6,8 @@ Based on [SQLiteGlue-core](https://github.com/sqlg/SQLiteGlue-core), which may b
 
 Unlicense (public domain).
 
+Includes part of libTomCrypt (public domain)
+
 ## About
 
 Android-sqlite-native-driver provides:
